@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>seamonkey</id>
+    <title>seamonkey (Install)</title>
+    <version>2.49.4</version>
+    <authors>seamonkey</authors>
+    <owners>dp3atksu</owners>
+    <summary>Seamonkey all-in-one interent application suite</summary>
+    <description>The SeaMonkey project is a community effort to develop the SeaMonkey all-in-one internet application suite.   </description>
+    <projectUrl>http://www.seamonkey-project.org/</projectUrl>
+    <tags>seamonkey</tags>
+    <licenseUrl>https://www.seamonkey-project.org/legal/#license</licenseUrl>
+    <iconUrl>https://addons.cdn.mozilla.net/static/img/app-icons/med/seamonkey.png</iconUrl>
+ </metadata>
+</package>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>xournal</id>
+    <title>xournal</title>
+    <version>0.4.8</version>
+    <authors>xournal</authors>
+    <owners>dp3atksu</owners>
+    <summary>Xournal is an application for notetaking, sketching, keeping a journal using a stylus.</summary>
+    <description>Xournal is an application for notetaking, sketching, keeping a journal using a stylus. 
+    </description>
+    <projectUrl>http://xournal.sourceforge.net/</projectUrl>
+    <packageSourceUrl>https://sourceforge.net/projects/xournal</packageSourceUrl>
+    <tags>xjournal</tags>
+    <copyright>http://xournal.sourceforge.net/</copyright>
+    <licenseUrl>http://xournal.sourceforge.net/</licenseUrl>
+  </metadata>
+</package>
