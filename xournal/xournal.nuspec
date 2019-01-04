@@ -13,8 +13,12 @@
     </description>
     <projectUrl>http://xournal.sourceforge.net/</projectUrl>
     <packageSourceUrl>https://sourceforge.net/projects/xournal</packageSourceUrl>
+    <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
     <tags>xjournal</tags>
     <copyright>http://xournal.sourceforge.net/</copyright>
     <licenseUrl>http://xournal.sourceforge.net/</licenseUrl>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

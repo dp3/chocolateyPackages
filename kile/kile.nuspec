@@ -17,6 +17,7 @@
     <releaseNotes>Kile 64bit version 2.9.92 </releaseNotes>
     <packageSourceUrl>https://github.com/KDE/kile</packageSourceUrl>
     <packageSourceUrl>https://kile.sourceforge.io/download.php</packageSourceUrl>
+    <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
     <dependencies>
       <dependency id="chocolatey" version="0.10.5" />
     </dependencies> 
