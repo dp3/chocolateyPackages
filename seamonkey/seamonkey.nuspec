@@ -11,7 +11,7 @@
     <summary>Seamonkey all-in-one interent application suite</summary>
     <description>The SeaMonkey project is a community effort to develop the SeaMonkey all-in-one internet application suite.   </description>
     <projectUrl>http://www.seamonkey-project.org/</projectUrl>
-    <projectSourceUrl>https://github.com/dp3/chocolateyPackages</projectSourceUrl>
+    <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
     <tags>seamonkey</tags>
     <licenseUrl>https://www.seamonkey-project.org/legal/#license</licenseUrl>
     <iconUrl>https://addons.cdn.mozilla.net/static/img/app-icons/med/seamonkey.png</iconUrl>
