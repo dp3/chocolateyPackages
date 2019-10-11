@@ -13,17 +13,16 @@
     <tags>Kile foss LateX editor</tags>
     <licenseUrl>https://docs.kde.org/stable4/en/extragear-office/kile/common/gpl-license.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/KDE/kile/blob/master/src/data/icons/64-apps-kile.png</iconUrl>
+    <iconUrl>https://dp3.github.io/images/icons/128-apps-kile.png</iconUrl>
     <releaseNotes>Kile 64bit version 2.9.92 </releaseNotes>
-    <packageSourceUrl>https://github.com/KDE/kile</packageSourceUrl>
-    <packageSourceUrl>https://kile.sourceforge.io/download.php</packageSourceUrl>
+    <!--<packageSourceUrl>https://github.com/KDE/kile</packageSourceUrl>-->
+    <projectSourceUrl>https://kile.sourceforge.io/download.php</projectSourceUrl>
     <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
     <dependencies>
       <dependency id="chocolatey" version="0.10.5" />
     </dependencies> 
   </metadata>
   <files>
-    <file src="legal\**" target="legal" />
-    <file src="tools\**" target="tools" />
+        <file src="tools\**" target="tools" />
   </files>
 </package>
