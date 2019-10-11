@@ -1,0 +1,20 @@
+<package>
+  <metadata>
+    <id>zoom</id>
+    <version>4.5.5.5452</version>
+    <title>Zoom Client for Meetings</title>
+    <authors>Zoom Video Communications, Inc.</authors>
+    <owners>dp3</owners>
+    <licenseUrl>http://zoom.us/pricing</licenseUrl>
+    <projectUrl>https://zoom.us/</projectUrl>
+    <iconUrl>https://github.com/dp3/chocolateyPackages/zoom/zoom.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>video conferencing app</description>
+    <summary>zoom video conferencing platform</summary>
+    <copyright>Copyright ©2019 Zoom Video Communications, Inc. All rights reserved.</copyright>
+    <tags>zoom admin webinar webcam meeting</tags>
+    <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
+    <docsUrl>https://support.zoom.us/hc/en-us</docsUrl>
+    <bugTrackerUrl>https://support.zoom.us/hc/en-us/requests/new</bugTrackerUrl>
+  </metadata>
+</package>
