@@ -12,7 +12,7 @@
     <description>Xournal is an application for notetaking, sketching, keeping a journal using a stylus. 
     </description>
     <projectUrl>http://xournal.sourceforge.net/</projectUrl>
-    <packageSourceUrl>https://sourceforge.net/projects/xournal</packageSourceUrl>
+    <projectSourceUrl>https://sourceforge.net/projects/xournal</projectSourceUrl>
     <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
     <tags>xjournal</tags>
     <copyright>http://xournal.sourceforge.net/</copyright>
