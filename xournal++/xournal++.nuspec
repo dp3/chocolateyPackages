@@ -3,18 +3,18 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>xournal++</id>
-    <title>xournal++</title>
+    <id>xournalpp</id>
+    <title>xournalpp</title>
     <version>1.0.18</version>
-    <authors>xournal++</authors>
+    <authors>xournalpp</authors>
     <owners>dp3atksu</owners>
-    <summary>   </summary>
-    <description 
+    <summary>  Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets </summary>
+    <description> Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets
     </description>
     <projectUrl>https://xournalpp.github.io</projectUrl>
     <projectSourceUrl>https://github.com/xournalpp/xournalpp</projectSourceUrl>
     <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
-    <tags>xjournal</tags>
+    <tags>xjournalpp</tags>
     <copyright>https://xournalpp.github.io</copyright>
     <licenseUrl>https://xournalpp.github.io</licenseUrl>
   </metadata>
