@@ -2,8 +2,6 @@
 
 $packageName= 'xournalpp'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-#$fileLocation = Join-Path $toolsDir 'xournalpp-1.0.18-windows.zip'
-
 
 $packageArgs = @{
   packageName  = $packageName
@@ -19,6 +17,7 @@ $ErrorActionPreference = 'Stop'
 
 $fileType = 'exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /S /quiet'
-$file = 'C:\ProgramData\chocolatey\lib\xournalpp\tools\xournalpp-1.0.18-windows.exe'         
-  
+
+$file = $toolsDir+'\xournalpp-1.0.18-windows.exe'
+ 
 Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$file" "$checksum" "$checksumType"

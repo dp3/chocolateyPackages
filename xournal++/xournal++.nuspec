@@ -15,7 +15,7 @@
     <projectSourceUrl>https://github.com/xournalpp/xournalpp</projectSourceUrl>
     <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
     <tags>xjournalpp</tags>
-	<iconUrl>https://avatars2.githubusercontent.com/u/5192682?s=200&v=4</iconUrl>
+	<iconUrl>https://raw.githubusercontent.com/dp3/chocolateyPackages/master/xournal%2B%2B/xournal_icon.png</iconUrl>
     <copyright>https://xournalpp.github.io</copyright>
     <licenseUrl>https://xournalpp.github.io</licenseUrl>
   </metadata>
