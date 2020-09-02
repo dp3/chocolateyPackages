@@ -12,7 +12,7 @@
     <description>The SeaMonkey project is a community effort to develop the SeaMonkey all-in-one internet application suite.   </description>
     <projectUrl>http://www.seamonkey-project.org/</projectUrl>
     <packageSourceUrl>https://github.com/dp3/chocolateyPackages</packageSourceUrl>
-    <tags>seamonkey</tags>
+    <tags>seamonkey firefox thunderbird foss cross-platform browser email news wysiwyg html</tags>
     <licenseUrl>https://www.seamonkey-project.org/legal/#license</licenseUrl>
     <iconUrl>https://addons.cdn.mozilla.net/static/img/app-icons/med/seamonkey.png</iconUrl>
  </metadata>
