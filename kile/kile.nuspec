@@ -11,7 +11,7 @@
     <description>Kile is a user-friendly TeX/LaTeX editor by KDE. Kile is available for many architectures and operating systems such as PC, Mac, and BSD, including Linux and Microsoft Windows. </description>
     <projectUrl>https://kile.sourceforge.io/developers.php</projectUrl>
     <tags>Kile foss LateX editor</tags>
-    <licenseUrl>https://docs.kde.org/stable4/en/extragear-office/kile/common/gpl-license.html</licenseUrl>
+    <licenseUrl>https://docs.kde.org/trunk5/en/extragear-office/kile/credits.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://dp3.github.io/images/icons/128-apps-kile.png</iconUrl>
     <releaseNotes>Kile 64bit version 2.9.92 </releaseNotes>

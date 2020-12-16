@@ -15,7 +15,9 @@
     <tags>seamonkey firefox thunderbird foss cross-platform browser email news wysiwyg html</tags>
     <licenseUrl>https://www.seamonkey-project.org/legal/#license</licenseUrl>
     <iconUrl>https://addons.cdn.mozilla.net/static/img/app-icons/med/seamonkey.png</iconUrl>
- </metadata>
+    <releaseNotes>This is a new minor release of Xournal++ with many bugfixes thanks to help from our community contributors. https://www.seamonkey-project.org/releases/seamonkey2.53.5.1</releaseNotes>
+
+</metadata>
  <files>
    <file src="tools\**" target="tools" />
  </files>
