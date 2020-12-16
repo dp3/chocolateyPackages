@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>xournalpp</id>
+    <id>xournalplusplus</id>
     <title>xournalpp</title>
     <version>1.0.19</version>
     <authors>xournalpp</authors>
@@ -17,8 +17,9 @@
     <tags>xjournalpp</tags>
 	<iconUrl>https://raw.githubusercontent.com/dp3/chocolateyPackages/master/xournal%2B%2B/xournal_icon.png</iconUrl>
     <copyright>https://xournalpp.github.io</copyright>
-    <licenseUrl>https://xournalpp.github.io</licenseUrl>
-  </metadata>
+    <licenseUrl>https://github.com/xournalpp/xournalpp/blob/master/LICENSE</licenseUrl>
+    <releaseNotes>This is a new minor release of Xournal++ with many bugfixes thanks to help from our community contributors. https://github.com/xournalpp/xournalpp/releases/tag/1.0.19</releaseNotes>
+   </metadata>
   <files>
     <file src="tools\**" target="tools" />
   </files>
