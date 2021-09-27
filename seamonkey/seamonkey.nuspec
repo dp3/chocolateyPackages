@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>seamonkey</id>
     <title>seamonkey (Install)</title>
-    <version>2.53.5</version>
+    <version>2.53.9</version>
     <authors>seamonkey</authors>
     <owners>dp3atksu</owners>
     <summary>Seamonkey all-in-one interent application suite</summary>
@@ -15,7 +15,7 @@
     <tags>seamonkey firefox thunderbird foss cross-platform browser email news wysiwyg html</tags>
     <licenseUrl>https://www.seamonkey-project.org/legal/#license</licenseUrl>
     <iconUrl>https://addons.cdn.mozilla.net/static/img/app-icons/med/seamonkey.png</iconUrl>
-    <releaseNotes>This is a new minor release of Xournal++ with many bugfixes thanks to help from our community contributors. https://www.seamonkey-project.org/releases/seamonkey2.53.5.1</releaseNotes>
+    <releaseNotes>This is a new minor release of Xournal++ with many bugfixes thanks to help from our community contributors. https://www.seamonkey-project.org/releases/seamonkey2.53.9/  </releaseNotes>
 
 </metadata>
  <files>
