@@ -1,7 +1,7 @@
 ﻿$packageName = 'seamonkey'
 $fileType = 'exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /S /quiet'
-$url = 'https://archive.mozilla.org/pub/seamonkey/releases/2.53.9/win64/en-US/seamonkey-2.53.9.en-US.win64.installer.exe'
-$checksum ='a79e4553298e779678d72603e46b164fe4027939c6189cf879b3c29f66b82d2c'
+$url = 'https://archive.mozilla.org/pub/seamonkey/releases/2.53.13/win32/en-US/seamonkey-2.53.13.en-US.win32.installer.exe'
+$checksum ='af77de7c66fc6878cba77738bdfe03f80f4c753a428f373b9a1bae13c5fa125d`'
 $checksumType = 'sha256'
 Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$url" "$url64" "$checksum" "$checksumType"
