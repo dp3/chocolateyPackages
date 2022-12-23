@@ -6,8 +6,8 @@ $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
   packageName  = $packageName
   unzipLocation = $toolsDir
-  url          = 'https://github.com/xournalpp/xournalpp/releases/download/1.0.20/xournalpp-1.0.20-windows.zip'
-  checksum     = 'c75690c02804cd00f8e11832600e7468a525b793cbccf6f7d68cd80e923eb02e'
+  url          = 'https://github.com/xournalpp/xournalpp/releases/download/v1.1.3/xournalpp-1.1.3-windows.zip'
+  checksum     = '79cc8d60fd11ef0b68d014341d103910ab910f05ca290a709ef0e2dabd011d8d'
   checksumType = 'sha256'
 }
 
@@ -18,6 +18,6 @@ $ErrorActionPreference = 'Stop'
 $fileType = 'exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /S /quiet'
 
-$file = $toolsDir+'\xournalpp-1.0.20-windows.exe'
+$file = $toolsDir+'\xournalpp-1.1.1-windows.exe'
  
 Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$file" "$checksum" "$checksumType"
