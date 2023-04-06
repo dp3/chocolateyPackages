@@ -18,6 +18,6 @@ $ErrorActionPreference = 'Stop'
 $fileType = 'exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /S /quiet'
 
-$file = $toolsDir+'\xournalpp-1.1.1-windows.exe'
+$file = $toolsDir+'\xournalpp-1.1.3-windows.exe'
  
 Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$file" "$checksum" "$checksumType"
