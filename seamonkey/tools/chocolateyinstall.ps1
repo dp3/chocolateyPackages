@@ -1,7 +1,8 @@
 ﻿$packageName = 'seamonkey'
 $fileType = 'exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /S /quiet'
-$url = 'https://archive.mozilla.org/pub/seamonkey/releases/2.53.16/win32/en-US/seamonkey-2.53.16.en-US.win32.installer.exe'
-$checksum ='74b59d6b678035820cb7ee15d7ea549130111a7290b7e83e09d1d20db3a6edb7'
+$url = 'https://archive.mozilla.org/pub/seamonkey/releases/2.53.18/win32/en-US/seamonkey-2.53.18.en-US.win32.installer.exe'
+$checksum ='3b6d8be0fd7d39b019cc9f5c8875595d22e70ef372a4900e73e2b5399f6da603'
 $checksumType = 'sha256'
-Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$url" "$url64" "$checksum" "$checksumType"
+#Get-ChecksumValid -File $fileFullPath -CheckSum $checksum -ChecksumType $checksumType
+Install-ChocolateyPackage "$packageName" -FileType "$fileType" -SilentArgs "$silentArgs" -Url "$url" -Checksum "$checksum" -ChecksumType "$checksumType"
